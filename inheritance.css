@@ -1,0 +1,28 @@
+.danger, .warning, .success {
+  border-radius: 0px 10px 10px 0px;
+  color: rgb(233, 194, 194);
+  padding: 20px;
+  font-size: 20px;
+  font-weight: bold;
+  box-shadow: 20px 20px 20px grey;
+  border: 2px solid black;
+}
+
+.danger, .warning, .success {
+  margin: 10px;
+  display: flex;
+}
+
+.success {
+  background-color: green;
+}
+
+.warning {
+  background-color: rgb(183, 183, 12);
+}
+
+.danger {
+  background-color: rgb(103, 6, 6);
+}
+
+/*# sourceMappingURL=inheritance.css.map */

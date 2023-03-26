@@ -1,0 +1,14 @@
+div p {
+  color: purple;
+  font-size: 18px;
+  font-weight: 1000;
+  border: 2px solid red;
+  border-width: 0.5cm;
+  border-style: groove;
+}
+div ul {
+  color: aquamarine;
+  font-size: 20px;
+}
+
+/*# sourceMappingURL=nesting.css.map */
